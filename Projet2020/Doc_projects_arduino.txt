@@ -1,0 +1,50 @@
+
+https://www.arduino.cc/
+https://www.01net.com/telecharger/windows/Multimedia/creation_graphique/fiches/149413.html
+--------------------------------
+https://www.tutorialspoint.com/arduino/index.htm
+https://www.makerspaces.com/arduino-uno-tutorial-beginners/
+https://www.arduino.cc/en/Tutorial/HomePage?from=Main.Tutorials
+--------------------------
+projet: robot:
+
+https://www.electronicshub.org/obstacle-avoiding-robot-arduino/
+https://circuitdigest.com/microcontroller-projects/arduino-obstacle-avoding-robot
+https://www.instructables.com/id/Obstacle-Avoiding-Robot-Arduino-1/
+http://www.bajdi.com/obstacle-avoiding-robot-made-from-cheap-parts/
+https://www.hackster.io/vishal-soni/mobile-controlled-bluetooth-car-easy-simple-hc-05-59a002
+----------------------
+Projet weather station  +  e-agriculture
+
+https://circuits4you.com/2016/12/16/esp8266-web-server-html/
+
+https://lastminuteengineers.com/bme280-esp8266-weather-station/
+https://www.instructables.com/id/Wemos-D1-Mini-Weatherstation-Plug-Play/
+
+----------------------------------------------
+Home automation
+
+https://www.hackster.io/jithinsanal1610/home-automation-step-by-step-using-wemos-d1-mini-7bd50c
+https://hackaday.io/project/169358-home-automation-step-by-step-using-wemos-d1-mini-w
+https://www.pinterest.fr/pin/216172850840332193/
+https://randomnerdtutorials.com/esp8266-web-server/
+https://randomnerdtutorials.com/esp8266-web-server-with-arduino-ide/
+https://www.instructables.com/id/Firebase-Integrate-With-ESP8266/
+https://projetsdiy.fr/esp8266-serveur-web-interface-graphique-html/
+---------------------------------
+
+
+
+http://www.electronicshub.org/arduino-project-ideas/  
+https://circuits4you.com/2016/12/16/esp8266-web-server-html/
+https://www.electronicshub.org/embedded-systems-projects-ideas/
+
+
+https://www.electronicshub.org/arduino-project-ideas/?ref=menu
+https://www.hackster.io/ahmedibrrahim/iot-using-esp8266-01-and-arduino-afa35e?utm_campaign=new_projects&utm_content=9&utm_medium=email&utm_source=hackster&utm_term=project_name
+https://arduinomylifeup.com/21-awesome-arduino-projects/
+
+
+--------------------------------
+e_mail groupe projets:      projets_2020@yahoo.com
+pwd: 				esi-sba.dz
